@@ -1,11 +1,7 @@
-# Sample Snack app
+# Sample React Native App
 
-Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators. When you're done, click **Save** and share the link!
+![alt text](https://raw.githubusercontent.com/Shoaib-Naseer/Simple-React-Native-App/main/Screenshots/1.png)
+![alt text](https://raw.githubusercontent.com/Shoaib-Naseer/Simple-React-Native-App/main/Screenshots/2.png)
+![alt text](https://raw.githubusercontent.com/Shoaib-Naseer/Simple-React-Native-App/main/Screenshots/3.png)
 
-When you're ready to see everything that Expo provides (or if you want to use your own editor) you can **Download** your project and use it with [expo-cli](https://docs.expo.io/get-started/installation).
-
-All projects created in Snack are publicly available, so you can easily share the link to this project via link, or embed it on a web page with the `<>` button.
-
-If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.io/c/snack).
-
-Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack).
+Snack is Open Source. You can find the code on the [GitHub repo](https://snack.expo.dev/@shobii1223/react-native-practical-guide-1).
